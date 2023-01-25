@@ -15,3 +15,4 @@ const Character = ({character}) => {
 };
 
 export default Character;
+// egregreg
