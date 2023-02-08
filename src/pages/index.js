@@ -1,6 +1,6 @@
 export * from './HomePage/HomePage'
 export * from './AlbumsPage/AlbumsPage'
 export * from './CommentsPage/CommentsPage'
-export * from './PostPage/PostPage'
+export * from './PostPage/PostByIdPage'
 export * from './TodosPage/TodosPage'
 export * from './NotFoundPage/NotFoundPage'
